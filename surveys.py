@@ -1,4 +1,3 @@
-responses = []
 class Question:
     """Question on a questionnaire."""
 
